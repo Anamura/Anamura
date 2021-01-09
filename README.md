@@ -3,7 +3,7 @@
 🌱  I’m learning Python and I love it.
 
 
-⚔️  Recently I've joined new team to develop rock luxary support projects.
+⚔️  Recently I've joined new team to develop support projects.
 
 🔭  I'm developing music runner -- a tool to control playlists based on your run.
 
