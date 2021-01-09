@@ -1,16 +1,14 @@
-### Hi there 👋
+🏗️🚀🏃
+⚡ I am Software developer.
 
-<!--
-**Anamura/Anamura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m learning Python and I love it.
 
-Here are some ideas to get you started:
+⚔️ Recently I've joined new team to develop rock luxary support project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I'm developing music runner -- a tool to control playlists based on your run.
+
+🤔 I’m looking to collaborate on project which makes working with tools more easier.
+
+💬 Follow me: @anna.myravyova@facebook.com.
+
+📫 Message me: ana-mur21s@yandex.ru.
