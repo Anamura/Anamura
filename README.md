@@ -13,7 +13,7 @@
 
 📫  Message me: ana-mur21s@yandex.ru.
 
-<div align="center">
+<div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://github.com/Anamura/Anamura/blob/main/tenor.gif" width="30" height="30"/>
 </div>
