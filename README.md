@@ -1,10 +1,5 @@
 # 👨🏻‍💻 Anna Muraveva
 
-<p align="center">
-    ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-    <a>My Profile</a>
-    ⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
-</p>
 
 🚀 I’m learning Python and I love it.
 
@@ -20,7 +15,6 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=anamura&count_private=true&line_height=21&show_icons=true&hide_border=true"/>
-
 
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
