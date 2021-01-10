@@ -7,7 +7,7 @@
 
 🔭  I'm developing music runner -- a tool to control playlists based on your run.
 
-🤔  I’m looking to collaborate on project which makes working with tools more easier.
+🏑  I’m looking to collaborate on project which makes working with tools more easier.
 
 💬  Follow me: @anna.myravyova@facebook.com.
 
@@ -23,7 +23,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-  [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+  ![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)
   ![suse](https://img.shields.io/badge/suse%20%5B%2064bit%20%5D-%20-35bf5c?style=flat-square&logo=opensuse)
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
