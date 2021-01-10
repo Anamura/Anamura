@@ -1,4 +1,4 @@
-🚀  Hello, I am software developer.
+🚀 Hello!  I am software developer.
 
 🌱  I’m learning Python and I love it.
 
