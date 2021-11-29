@@ -1,4 +1,4 @@
-# 💻 Anna Muraveva
+# 💻 Anna Muravieva
 
 
 🚀 I’m learning Python and I love it.
