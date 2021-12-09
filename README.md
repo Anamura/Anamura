@@ -1,7 +1,7 @@
 # 💻 Anna Muraveva
 
 
-🚀 I’m learning Python and I love it.
+🚀 Hello, I’m learning Python and I love it.
 
 ⚔️  Recently I've joined new team to develop support projects.
 
