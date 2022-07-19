@@ -1,11 +1,7 @@
 # 💻 Anna Muraveva
 
 
-🚀 Hello, I’m learning Python and I love it.
-
-⚔️  Recently I've joined new team to develop support projects.
-
-🔭  I'm developing music runner -- a tool to control playlists based on your run.
+🚀 Hello, I’m Python/Java Developer.
 
 🏑  I’m looking to collaborate on project which makes working with tools more easier.
 
