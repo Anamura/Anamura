@@ -1,7 +1,7 @@
 # 💻 Anna Muraveva
 
 
-🚀 Hello, I’m Python/Java Developer.
+🚀 Hello, I’m Python Developer.
 
 🏑  I’m looking to collaborate on project which makes working with tools more easier.
 
