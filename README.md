@@ -9,10 +9,10 @@
 💬  Follow me: @anna.myravyova@facebook.com.
 
 📫  Message me: ana-mur21s@yandex.ru.
+
+<br />
 👾🦕
 <br />
-<br />
-
 
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
