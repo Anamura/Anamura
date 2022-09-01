@@ -4,7 +4,7 @@
 
  I use the name main for main branch in my repos.
 
-🎿 I’m looking to collaborate on project which makes working with tools more easier.
+🎿 I like to collaborate on tools which makes working more easier.
 
 💬  Follow me: @anna.myravyova@facebook.com.
 
