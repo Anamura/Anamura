@@ -1,17 +1,18 @@
-# 💻 Anna Muraveva 👾🦕 
+# 💻 Anna Muraveva
 
-🚀 Hello, I’m Python Developer.
+🚀 Hello, I’m Python Developer. 
 
  I use the name main for main branch in my repos.
 
-🎿 I like to collaborate on tools which makes working more easier.
+🎿 I like to collaborate on tools which makes working more easier. 
 
 💬  Follow me: @anna.myravyova@facebook.com.
 
 📫  Message me: ana-mur21s@yandex.ru.
+👾🦕
+<br />
+<br />
 
-<br />
-<br />
 
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
