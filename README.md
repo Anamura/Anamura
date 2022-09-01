@@ -1,6 +1,6 @@
-# 💻 Anna Muraveva
+# 💻 Anna Muraveva 👾🦕 
 
-🚀 Hello, I’m Python Developer. 👾🦕 
+🚀 Hello, I’m Python Developer.
 
  I use the name main for main branch in my repos.
 
