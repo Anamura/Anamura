@@ -2,10 +2,9 @@
 
 
 🚀 Hello, I’m Python Developer.
+ I use the name main for main branch in my repos.
 
-  I use the name main for main branch in my repos.
-
-  I’m looking to collaborate on project which makes working with tools more easier.
+🎿 I’m looking to collaborate on project which makes working with tools more easier.
 
 💬  Follow me: @anna.myravyova@facebook.com.
 
