@@ -10,9 +10,6 @@
 
 📫  Message me: ana-mur21s@yandex.ru.
 
-<br />
-👾🦕
-<br />
 
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
@@ -24,6 +21,5 @@
   ![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)
   ![suse](https://img.shields.io/badge/suse%20%5B%2064bit%20%5D-%20-35bf5c?style=flat-square&logo=opensuse)
 <div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://github.com/Anamura/Anamura/blob/main/tenor.gif" width="30" height="30"/>
+  
 </div>
