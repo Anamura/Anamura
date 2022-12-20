@@ -6,9 +6,7 @@
 
 🎿 I like to collaborate on tools which makes working more easier. 
 
-💬  Follow me: @anna.myravyova@facebook.com.
-
-📫  Message me: ana-mur21s@yandex.ru.
+💬 📫  Message me: ana-mur21s@yandex.ru.
 
 
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -23,4 +21,5 @@
 <div>
   
 </div>
+
 🟩🟩🟩🟩⬜️
