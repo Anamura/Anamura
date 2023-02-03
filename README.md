@@ -2,7 +2,7 @@
 
 🚀 Hello, I’m Java/Python Developer. 
 
-🌱 to get started, I use main branch for my repos.
+🌱 To get started, I use main branch for my repos.
 
 🎿 I like to collaborate on tools which makes working more easier. 
 
