@@ -8,7 +8,8 @@
 
 💬 📫  Message me: ana-mur21s@yandex.ru.
 
-
+  🟩🟩🟩🟩⬜️
+  
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -22,4 +23,3 @@
   
 </div>
 
-🟩🟩🟩🟩⬜️
