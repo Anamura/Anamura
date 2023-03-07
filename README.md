@@ -1,6 +1,6 @@
 # 💻 Anna Muravieva
 
-🚀 Hello, I’m Java/Python Software Developer. 
+🚀 Hello, I’m Python/Java Software Developer. 
 
 🌱 To get started, I use main branch for my repos.
 
