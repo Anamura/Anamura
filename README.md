@@ -1,6 +1,6 @@
 # 💻 Anna Muravieva
 
-🚀 Hello, I’m Senior Python/Java Software Developer. 
+🚀 Hello, I’m Senior Python/Java Developer. 
 
 🌱 To get started, I use main branch for my repos.
 
